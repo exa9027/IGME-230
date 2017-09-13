@@ -1,4 +1,4 @@
-Zombie Survivial
+# H1 Zombie Survivial
 Concept: “It’s like a zombie shooter, but you do not want to shoot the zombies.”
 Genre: shooter, survival
 Platform: desktop only
