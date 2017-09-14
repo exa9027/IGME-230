@@ -17,3 +17,6 @@ Keyboard for gameplay. Mouse for menu navigation
 
 ## Esthetics: 
 Cartoonish, 8-bit sound, only has sound effects for shooting and zombies
+
+## About the Developer
+Ethan Adler is a 2nd year Game Design and Devlopment student. He origionally got experience in Game Design through software such as GameMaker Studio, Construct 2, and Blender. Because of these foudnations, Ethan has a natural mind for programming. Currently, he has the basics of C# and HTML/CSS under his belt. Nevertheless, his interests still remains in designing unique, state of the art games that push games to their real potential.
