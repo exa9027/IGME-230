@@ -16,10 +16,4 @@ desktop only
 Keyboard for gameplay. Mouse for menu navigation
 
 ## Esthetics: 
-cartoonish, 8-bit sound, only has sound effects for shooting and zombies
-
-## Controls: 
-keyboard for gameplay, mouse for menu navigation
-## Player Learning/Advancement
-The game will have a control menu to teach them controls but they will not be taught the different strategies; they will learn those through experimenting and playing the game.
-In order to do well in the game, the player will need to learn how good the three power-ups, the bomb, health pack, and extra heart, are. The bomb destroys all zombies on the screen (without spawning 2 more), and the health pack and extra heart items help you survive longer. The player will also need to learn about the two strategies, after noticing that killing zombies spawns more zombies.
+Cartoonish, 8-bit sound, only has sound effects for shooting and zombies
