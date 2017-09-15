@@ -10,7 +10,7 @@ The game will have a control menu to teach them controls but they will not be ta
 In order to do well in the game, the player will need to learn how good the three power-ups, the bomb, health pack, and extra heart, are. The bomb destroys all zombies on the screen (without spawning 2 more), and the health pack and extra heart items help you survive longer. The player will also need to learn about the two strategies, after noticing that killing zombies spawns more zombies.
 
 ### Platform: 
-desktop only
+Desktop only
 
 ## Controls: 
 Keyboard for gameplay. Mouse for menu navigation
